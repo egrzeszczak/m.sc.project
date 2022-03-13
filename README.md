@@ -10,16 +10,14 @@
   <p align="center">
     Implementacja Security Operations Center przy użyciu oprogramowania OpenSource
     <br />
-    <a href="https://github.com/egrzeszczak/m.sc.project"><strong>Explore »</strong></a>
+    <a href="https://github.com/egrzeszczak/m.sc.project"><strong>Work in progress</strong></a>
     <br />
     <br />
   </p>
 </p>
 
-<p align="center">
-    Work in progress
-</p>
 
+## [Temat, spis treści i opis pracy](TEMAT.md)
 
 
 
